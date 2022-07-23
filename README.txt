@@ -1,1 +1,2 @@
-Welcome to my portfolio website!
+# Sam Gustafsson
+## Welcome to my portfolio website!
