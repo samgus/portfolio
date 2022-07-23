@@ -1,3 +1,3 @@
 # Sam Gustafsson
 ## Welcome to my portfolio website!
-https://samgus.github.io/portfolio/
+![Portfolio](https://samgus.github.io/portfolio/)
